@@ -1,0 +1,7 @@
+#### USAGE ####
+
+1) Run Kafka and Zookeeper
+2) Start Kafka consumer (e.g. kafka-console-consumer) to consume the topic defined in configuration
+3) Run Bootstrap
+4) Send POST request with a JSON body to the endpoint defined in component's configuration
+5) See what happens on the kafka-consumer.
