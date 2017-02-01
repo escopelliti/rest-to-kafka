@@ -1,5 +1,6 @@
 description = "Rest to Kafka component"
 group = "org.escopelliti"
+version = "1.0.0"
 
 apply plugin: 'java'
 apply plugin: 'application'
